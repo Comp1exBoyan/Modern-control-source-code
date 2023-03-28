@@ -1,4 +1,4 @@
-# Ellipsoid-Set-Membership-Filter
+# Source code station of modern control
 Implementation of set membership filter based on high dimensional space ellipsoid calculation
 
 Formula derivation can be found in this paper :
